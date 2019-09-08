@@ -1,0 +1,24 @@
+{
+  "name": "supertest-automation",
+  "version": "0.1.0",
+  "dependencies": {},
+  "scripts": {
+    "test": "mocha  '**/*.test.js'"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0",
+    "supertest": "^4.0.2"
+  },
+  "description": "API automation test with supertest framework",
+  "repository": {
+    "license": "MIT",
+    "type": "git",
+    "url": "git+https://github.com/Victoryyyyy/supertest-practice.git"
+  },
+  "author": "Victor",
+  "bugs": {
+    "url": "https://github.com/Victoryyyyy/supertest-practice/issues"
+  },
+  "homepage": "https://github.com/Victoryyyyy/supertest-practice#readme"
+}
