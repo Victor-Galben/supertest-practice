@@ -7,6 +7,7 @@ An example of using SuperTest with Mocha as the test runner
 - Mocha - runs on Node.js and allows you to develop test cases for your program and execute them in serial with proper reporting. 
 
 # Getting Started
+- Make sure you have installed [node.js](https://nodejs.org/en/) on your machine
 - In order to install you will need to clone the project on your local.
 - Project location: [supertest-practice](https://github.com/Victoryyyyy/supertest-practice.git).
 - Open the project folder in you IDE (Ex: vscode)
